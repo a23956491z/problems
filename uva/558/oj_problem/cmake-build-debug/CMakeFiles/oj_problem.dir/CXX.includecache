@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enip/zawarudo/codebase/csie23_code/HW/ALG LAB/HW10/oj_problem/main.cpp
+iostream
+-
+vector
+-
+

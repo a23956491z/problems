@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enip/zawarudo/codebase/csie23_code/HW/ALG LAB/HW9/oj/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+utility
+-
+climits
+-
+
