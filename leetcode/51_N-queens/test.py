@@ -1,0 +1,1 @@
+print(str("".join( str(i) for i in set( [7,2,5] )) ))
